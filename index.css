@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.main-container{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(106, 107, 107, 0.937) 57%, rgb(230, 234, 235) 100%);
+}
+
+.secao-1 img{
+
+    width: 100%;
+}
+
+.secao-2__titulo{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.secao-2__paragrafo{
+
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    padding: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.carousel-control-next ,.carousel-control-prev{
+
+    color: #ffffff;
+    
+}
+
+.carousel-item{
+
+    width: 100%;
+    height: auto;
+}
